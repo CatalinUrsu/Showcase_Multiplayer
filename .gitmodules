@@ -1,0 +1,6 @@
+[submodule "Multiplayer_Unity/Packages/Tool_StateMachine"]
+	path = Multiplayer_Unity/Packages/Tool_StateMachine
+	url = git@github.com:CatalinUrsu/Tool_StateMachine.git
+[submodule "Multiplayer_Unity/Packages/Tool_Helpers"]
+	path = Multiplayer_Unity/Packages/Tool_Helpers
+	url = git@github.com:CatalinUrsu/Tool_Helpers.git
