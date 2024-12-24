@@ -2,7 +2,7 @@
 
 namespace Source.StateMachine
 {
-public struct SplashScreenInfo : ISplashScreenInfo
+public readonly struct SplashScreenInfo : ISplashScreenInfo
 {
     public bool SkipAnimation { get; }
     public string MapName { get; }
