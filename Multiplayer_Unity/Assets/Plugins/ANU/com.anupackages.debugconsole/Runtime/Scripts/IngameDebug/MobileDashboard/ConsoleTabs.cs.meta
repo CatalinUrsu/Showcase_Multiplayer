@@ -14,5 +14,5 @@ AssetOrigin:
   productId: 259584
   packageName: ANU Runtime Console Commander
   packageVersion: 2.1.4-pre.1
-  assetPath: Assets/ANU/com.anupackages.debugconsole/Runtime/Scripts/IngameDebug/MobileDashboard/ConsoleTabs.cs
+  assetPath: Assets/Plugins/ANU/com.anupackages.debugconsole/Runtime/Scripts/IngameDebug/MobileDashboard/ConsoleTabs.cs
   uploadId: 635975

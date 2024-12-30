@@ -10,5 +10,5 @@ AssetOrigin:
   productId: 259584
   packageName: ANU Runtime Console Commander
   packageVersion: 2.1.4-pre.1
-  assetPath: Assets/ANU/com.anupackages.ndesk-options/Runtime/NDesk.Options/src/obj/Debug/netcoreapp2.2/NDesk.Options.AssemblyInfoInputs.cache
+  assetPath: Assets/Plugins/ANU/com.anupackages.ndesk-options/Runtime/NDesk.Options/src/obj/Debug/netcoreapp2.2/NDesk.Options.AssemblyInfoInputs.cache
   uploadId: 635975

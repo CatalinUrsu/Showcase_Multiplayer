@@ -10,5 +10,5 @@ AssetOrigin:
   productId: 259584
   packageName: ANU Runtime Console Commander
   packageVersion: 2.1.4-pre.1
-  assetPath: Assets/ANU/com.anupackages.ndesk-options/Runtime/NDesk.Options/Artifacts/NDesk.Options.Core.1.2.4.nupkg
+  assetPath: Assets/Plugins/ANU/com.anupackages.ndesk-options/Runtime/NDesk.Options/Artifacts/NDesk.Options.Core.1.2.4.nupkg
   uploadId: 635975

@@ -10,5 +10,5 @@ AssetOrigin:
   productId: 259584
   packageName: ANU Runtime Console Commander
   packageVersion: 2.1.4-pre.1
-  assetPath: Assets/ANU/com.anupackages.debugconsole/Samples/Command Attributes/Scenes/CommandAttributesSampleScene.unity
+  assetPath: Assets/Plugins/ANU/com.anupackages.debugconsole/Samples/Command Attributes/Scenes/CommandAttributesSampleScene.unity
   uploadId: 635975

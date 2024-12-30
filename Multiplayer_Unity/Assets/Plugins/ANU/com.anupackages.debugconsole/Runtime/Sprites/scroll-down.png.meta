@@ -115,5 +115,5 @@ AssetOrigin:
   productId: 259584
   packageName: ANU Runtime Console Commander
   packageVersion: 2.1.4-pre.1
-  assetPath: Assets/ANU/com.anupackages.debugconsole/Runtime/Sprites/scroll-down.png
+  assetPath: Assets/Plugins/ANU/com.anupackages.debugconsole/Runtime/Sprites/scroll-down.png
   uploadId: 635975

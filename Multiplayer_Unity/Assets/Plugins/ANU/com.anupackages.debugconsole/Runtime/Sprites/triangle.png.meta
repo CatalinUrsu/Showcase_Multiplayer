@@ -143,5 +143,5 @@ AssetOrigin:
   productId: 259584
   packageName: ANU Runtime Console Commander
   packageVersion: 2.1.4-pre.1
-  assetPath: Assets/ANU/com.anupackages.debugconsole/Runtime/Sprites/triangle.png
+  assetPath: Assets/Plugins/ANU/com.anupackages.debugconsole/Runtime/Sprites/triangle.png
   uploadId: 635975
