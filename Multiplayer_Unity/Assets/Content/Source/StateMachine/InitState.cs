@@ -1,5 +1,5 @@
 ﻿using Cysharp.Threading.Tasks;
-using StateMachine;
+using Helpers.StateMachine;
 
 namespace Source.StateMachine
 {

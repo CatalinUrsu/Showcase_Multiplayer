@@ -5,7 +5,7 @@ using UnityEngine.UI;
 using Source.StateMachine;
 using Cysharp.Threading.Tasks;
 
-namespace StateMachine
+namespace Helpers.StateMachine
 {
 public class SplashScreen : MonoBehaviour, ISplashScreen<SplashScreenInfo>
 {

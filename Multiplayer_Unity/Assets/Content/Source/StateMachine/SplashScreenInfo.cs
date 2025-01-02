@@ -1,4 +1,4 @@
-﻿using StateMachine;
+﻿using Helpers.StateMachine;
 
 namespace Source.StateMachine
 {
